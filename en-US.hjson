@@ -1,0 +1,49 @@
+Mods: {
+	PyreModPlus: {
+		Tiles: {
+			PyreChest: {
+				MapEntry0: Mods.PyreModPlus.Tiles.PyreChest.MapEntry0
+				MapEntry1: Mods.PyreModPlus.Tiles.PyreChest.MapEntry1
+			}
+		}
+
+		Items: {
+			PyreKey: {
+				DisplayName: Pyre Key
+				Tooltip: ""
+			}
+
+			PyreChest: {
+				DisplayName: Pyre Chest
+				Tooltip: ""
+			}
+
+			FlameFlayer: {
+				DisplayName: Flame Flayer
+				Tooltip: ""
+			}
+
+			BloodyArrow: {
+				DisplayName: Bloody Arrow
+				Tooltip: ""
+			}
+
+			BloodClot: {
+				DisplayName: Blood Clot
+				Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			FlameFlayerProjectile.DisplayName: Flame Flayer Projectile
+			BloodyArrow.DisplayName: Bloody Arrow
+		}
+
+		Buffs: {
+			Bleeding: {
+				DisplayName: Bleeding
+				Description: Mods.PyreModPlus.Buffs.Bleeding.Description
+			}
+		}
+	}
+}

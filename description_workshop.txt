@@ -1,0 +1,15 @@
+Thanks for downloading this mod! The goal of Pyrite is to fully implement the Pyre in v1.0 (along with some extra love for the already existing Evils), then expand to other content, ranging from gelatinous mini-bosses to automated farms!
+However, I have absolutely no experience coding whatsoever. I am a spriter. Currently, there are only three items implemented (crappily) in-game, one of which is not currently obtainable.
+
+Flame Flayer [UNOBTAINABLE] -- a new post-Plantera melee weapon, a throwable scythe. Currently balanced pretty well, but is visually abyssmal aside from the sprite itself
+Bloody Arrow [UNOBTAINABLE] -- A new Crimson alternative to Unholy Arrows, which reduces enemy defense for a very short period of time, encouraging precision for greater damage output. However, it's currently completely broken, and will rapidly decrease enemy defense infinitely. It will be getting a new sprite in the next update (no promises on any bug fixes, though.)
+
+Blood Clot [UNOBTAINABLE] -- A New Crimson alternative to the Worm Tooth item., and probably the only thing in the mod that's currently working fully as intended. It will eventually be dropped by a brand-new pre-Hardmode enemy, the Mutant Tapeworm.
+
+Pyre Key -- Biome Key. Doesn't drop from enemies yet, and currently usable at any point in the game. (Unintentionally) obtainable through the crafting menu. Shimmer transmutation works fine.
+Pyre Chest -- Biome Chest. Also obtainable through the crafting menu, and has sprites for both its locked and unlocked forms (though, the unlocked version is unfinished). Locking with the Chest Lock item is not barred behind Plantera (because I have not figured out how to do that yet), and shimmering works for this as well. Currently has no animations.
+
+[NONE OF THE CONTENT MENTIONED BELOW IS FULLY IMPLEMENTED, IT IS SIMPLY PLANNED CONTENT]
+So, you may be asking yourself: "What is the Pyre?" An excellent question! The Pyre is a fire-themed Evil Biome alternative, more specifically a scorched forest, featuring a brand new boss: the Forest Haint!
+
+If you want to see some visual concepts for the Pyre, find me on Discord. You'll probably find me. I'm everywhere.

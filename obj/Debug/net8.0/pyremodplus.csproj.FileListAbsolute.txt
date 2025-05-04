@@ -1,0 +1,5 @@
+C:\Users\olive\Documents\My Games\Terraria\tModLoader\ModSources\pyremodplus\obj\Debug\net8.0\pyremodplus.csproj.AssemblyReference.cache
+C:\Users\olive\Documents\My Games\Terraria\tModLoader\ModSources\pyremodplus\obj\Debug\net8.0\pyremodplus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Documents\My Games\Terraria\tModLoader\ModSources\pyremodplus\obj\Debug\net8.0\pyremodplus.AssemblyInfoInputs.cache
+C:\Users\olive\Documents\My Games\Terraria\tModLoader\ModSources\pyremodplus\obj\Debug\net8.0\pyremodplus.AssemblyInfo.cs
+C:\Users\olive\Documents\My Games\Terraria\tModLoader\ModSources\pyremodplus\obj\Debug\net8.0\pyremodplus.csproj.CoreCompileInputs.cache

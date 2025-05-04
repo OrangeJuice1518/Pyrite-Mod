@@ -1,0 +1,3 @@
+displayName = Pyrite Mod
+author = Orange Juice
+version = 0.1.1
