@@ -32,11 +32,38 @@ Mods: {
 				DisplayName: Blood Clot
 				Tooltip: ""
 			}
+
+			BloodArrow: {
+				DisplayName: Blood Arrow
+				Tooltip: ""
+			}
+
+			Pyrite: {
+				DisplayName: Pyrite
+				Tooltip: ""
+			}
+
+			ScorchedAsh: {
+				DisplayName: Scorched Ash
+				Tooltip: ""
+			}
+
+			TwistedBranch: {
+				DisplayName: Twisted Branch
+				Tooltip: ""
+			}
+
+			AshenArrow: {
+				DisplayName: Ashen Arrow
+				Tooltip: ""
+			}
 		}
 
 		Projectiles: {
 			FlameFlayerProjectile.DisplayName: Flame Flayer Projectile
 			BloodyArrow.DisplayName: Bloody Arrow
+			BloodArrow.DisplayName: Blood Arrow
+			AshenArrow.DisplayName: Ashen Arrow
 		}
 
 		Buffs: {

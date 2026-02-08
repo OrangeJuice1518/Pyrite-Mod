@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PyreModPlus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d801cf3b600f073ddbdf4ba34066a5a385604081")]
 [assembly: System.Reflection.AssemblyProductAttribute("PyreModPlus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PyreModPlus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
